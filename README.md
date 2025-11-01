@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Team Members
-- Ziad Baha El-Sayed Taha 
+- Ziad Baha El-Sayed Tahaa
 - Mohamed Ahmed Elmesarea 
 - Amr khaled Mahmoud 
 - Youssef Mohamed Abdelaziz 
