@@ -6,11 +6,11 @@
 ---
 
 ## 👨‍💻 Team Members
-- Ziad Baha El-Sayed Taha El-Regaily *(Team Leader)*
-- [Member 2 Name]
-- [Member 3 Name]
-- [Member 4 Name]
-- [Member 5 Name]
+- Ziad Baha El-Sayed Taha 
+- Mohamed Ahmed Elmesarea 
+- Amr khaled Mahmoud 
+- Youssef Mohamed Abdelaziz 
+- Hussien Ragaei Ragab 
 
 ---
 
